@@ -119,8 +119,7 @@ My passion lies in designing intelligent and scalable robotic systems that can p
 ## 🌐 Connect with Me
 
 - 📧 Email: [alshafivaofficial@gmail.com](mailto:alshafivaofficial@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/al-shafi-a433271a0](https://www.linkedin.com/in/al-shafi-a433271a0/)  
-- 🧑‍💻 GitHub: [github.com/shafisterritory](https://github.com/shafisterritory)  
+- 💼 LinkedIn: [linkedin.com/in/al-shafi-a433271a0](https://www.linkedin.com/in/al-shafi-a433271a0/)   
 - 📍 Location: Bonn, Germany  
 
 ---
