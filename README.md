@@ -124,4 +124,4 @@ My passion lies in designing intelligent and scalable robotic systems that can p
 
 ---
 
-> 💡 “Building intelligent systems that move, think, and interact — one robot at a time.”
+> 💡 “Bringing autonomy from simulation to reality.”
