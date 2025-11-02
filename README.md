@@ -51,11 +51,6 @@ My passion lies in designing intelligent and scalable robotic systems that can p
 
 ---
 
-### **Intern – KELTRON**  
-📍 Cochin, India  
-- Gained hands-on experience in **mechanical and electronic design**, **sensor interfacing**, and **robotics design** using Proteus and NVIDIA platforms.
-
----
 
 ## 🎓 Education
 
